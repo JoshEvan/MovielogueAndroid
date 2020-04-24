@@ -1,5 +1,5 @@
 # MovielogueAndroid
-Android movie and tv shows data update app with MVVM Architecture, SQLite, Content Provider, AsyncHttpClient (LoopJ), reminder, notification, widget.
+Android movie and tv show data update app with ViewModel Architecture Component, SQLite, Content Provider, AsyncHttpClient (LoopJ), reminder, notification, widget.
 
 
 Features:
@@ -13,7 +13,7 @@ Features:
 - using Content Provider so 1 app can access another app.
 
 Implemented topics:
-* MVVM architecture
+* ViewModel Architecture Component
 * AsyncHttpClient (LoopJ).
 * glide
 * fragment
