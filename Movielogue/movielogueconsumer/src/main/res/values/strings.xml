@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="lang_set">Change Language</string>
+    <string name="reminder_set">Reminder Setting</string>
+
+    <string name="search">Search</string>
+    <string name="score">score</string>
+    <string name="description_template">description</string>
+    <string name="genre_template">genre</string>
+
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">TV Shows</string>
+
+    <string name="duration">Duration (hh:mm)</string>
+    <string name="movie_poster">movie poster</string>
+    <string name="app_name">MovieLogueConsumer</string>
+    <string name="movie_title_tamplate">Movie Name</string>
+    <string name="movie_score_template">score</string>
+    <string name="no_data_fav_movie">There are no favorite movies</string>
+    <string name="no_data_fav_tvshow">There are no favorite TV shows</string>
+    <string name="score_logo">Score Logo</string>
+    <string name="favorite_logo">Favorite Logo</string>
+    <string name="movie_detail_titles">Detail Film</string>
+    <string name="tvshow_detail_title">TV Show Detail</string>
+
+</resources>

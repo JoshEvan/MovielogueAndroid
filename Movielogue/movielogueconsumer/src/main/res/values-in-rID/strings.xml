@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="lang_set">Ubah Bahasa</string>
+        <string name="reminder_set">Pengaturan Pengingat</string>
+
+        <string name="search">Cari</string>
+        <string name="score">skor</string>
+        <string name="description_template">deskripsi</string>
+        <string name="genre_template">genre</string>
+        <string name="tab_text_1">Film</string>
+        <string name="tab_text_2">Acara TV</string>
+
+        <string name="duration">Durasi (jam:menit)</string>
+        <string name="movie_poster">movie poster</string>
+        <string name="app_name">MovieLogueConsumer</string>
+        <string name="movie_title_tamplate">Movie Name</string>
+        <string name="movie_score_template">score</string>
+        <string name="no_data_fav_movie">Tidak ada film favorit</string>
+        <string name="no_data_fav_tvshow">Tidak ada acara tv favorit</string>
+        <string name="score_logo">Logo Score</string>
+        <string name="favorite_logo">Logo Favorite</string>
+        <string name="movie_detail_titles">Detail Film</string>
+        <string name="tvshow_detail_title">Detail Acara TV</string>
+
+</resources>
