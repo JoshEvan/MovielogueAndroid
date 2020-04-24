@@ -36,3 +36,5 @@ Never miss your favorite movie's release date with this app with every new relea
 This app is built with Java, using the [TMDB](https://www.themoviedb.org/?language=en-US) API for fetching the latest and popular movies and TV Shows.
 
 The ConsumerApp within this project is accessing the favorite movies and TV shows data from the main app.
+
+
