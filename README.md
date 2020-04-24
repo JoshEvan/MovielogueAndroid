@@ -38,3 +38,10 @@ This app is built with Java, using the [TMDB](https://www.themoviedb.org/?langua
 The ConsumerApp within this project is accessing the favorite movies and TV shows data from the main app.
 
 
+movie list          |favorite movie list           |search movies        | detail
+:-------------------------|:-------------------------|:-------------------------|:-------------------------
+<img align="left" height="350" src="https://raw.githubusercontent.com/JoshEvan/MovielogueAndroid/master/demo/movies.png">  |<img align="center" height="350" src="https://raw.githubusercontent.com/JoshEvan/MovielogueAndroid/master/demo/favmovies.png">  |<img align="center" height="350" src="https://raw.githubusercontent.com/JoshEvan/MovielogueAndroid/master/demo/searchmovie.png">  |<img align="center" height="350" src="https://raw.githubusercontent.com/JoshEvan/MovielogueAndroid/master/demo/detailpage.png">
+
+favorite widget         |daily reminder          |release today reminder      | dual language
+:-------------------------|:-------------------------|:-------------------------|:-------------------------
+<img align="left" height="350" src="https://raw.githubusercontent.com/JoshEvan/MovielogueAndroid/master/demo/widget.png">  |<img align="center" height="350" src="https://raw.githubusercontent.com/JoshEvan/MovielogueAndroid/master/demo/dailyreminder.png">  |<img align="center" height="350" src="https://raw.githubusercontent.com/JoshEvan/MovielogueAndroid/master/demo/releasereminder.png">  |<img align="center" height="350" src="https://raw.githubusercontent.com/JoshEvan/MovielogueAndroid/master/demo/setting.png">
